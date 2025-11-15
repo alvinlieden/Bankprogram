@@ -1,0 +1,5 @@
+123456 Anna Andersson abc123 1500
+201201 Sofia Toll qwerty 67000
+889900 Erik Svensson pass11 3200
+559922 Maria Holm hejsan 0
+778899 Johan Berg losen1 4500
