@@ -27,6 +27,7 @@ Detta program implementerar ett komplett banksystem där både användare och ad
 
 
 Konton läses in vid programmets start och sparas tillbaka när programmet avslutas.
+(Om filen saknas skapas den automatiskt)
 
 ---
 
